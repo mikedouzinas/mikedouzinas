@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mikedouzinas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mike%20Veson-blue?logo=linkedin"></a>
   <a href="https://www.mikeveson.com"><img alt="Portfolio" src="https://img.shields.io/badge/Website-mikeveson.com-0A0A0A?logo=githubpages&logoColor=white"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=mikedouzinas&style=flat&color=brightgreen">
 </p>
 
 ---
