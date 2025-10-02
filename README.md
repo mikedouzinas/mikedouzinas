@@ -60,9 +60,3 @@
 </p>
 
 ---
-
-### 🤝 Open to Collaborate
-If you’re building something that merges **AI + health/sports + great UX**, let’s talk.  
-*“Code is the tool; product impact is the goal.”*
-
----
