@@ -14,7 +14,6 @@
 ---
 
 ### 🚀 About&nbsp;Me
-- 🔭 **Current internship:** full-stack TypeScript & cloud micro-services at **ParsonsX** (defense & infrastructure)  
 - 🌍 **Study abroad (Fall 2025):** Barcelona – distributed systems & product design  
 - 🛠 **I build:**  
   - AI document pipelines that cut a 3-day client workflow to minutes  
