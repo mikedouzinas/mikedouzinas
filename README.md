@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mike Veson 👋</h1>
 
 <p align="center">
-  <b>CS @ Rice • Software Engineer & Aspiring Product Manager • Building tech that saves time, moves ships, and makes soccer more fun ⚽</b>
+  <b>CS @ Rice • Software Engineer • Building tech that helps people, moves ships, and makes life more fun ⚽</b>
 </p>
 
 <p align="center">
