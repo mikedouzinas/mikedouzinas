@@ -34,7 +34,7 @@ The real index. What I'm building, what I've written, what I've been listening t
 
 ---
 
-<sub>The handle is Douzinas, my mother's maiden name and my Greek grandfather Kostas's surname. Veson is the one on the diploma. Both are me.</sub>
+<sub>FYI: Douzinas is my mother's maiden name, which I sometimes use. Veson is my last name.</sub>
 
 CS at Rice, graduating December 2026. Houston and Boston.
 [mikeveson.com](https://www.mikeveson.com) · [LinkedIn](https://www.linkedin.com/in/mikedouzinas) · `mike@douzinas.com`
