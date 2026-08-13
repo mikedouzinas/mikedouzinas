@@ -1,62 +1,40 @@
 <!-- README.md for github.com/mikedouzinas -->
 
-<h1 align="center">Hi, I'm Mike Veson 👋</h1>
+<a href="https://www.mikeveson.com"><img src="./banner.svg" alt="Mike Veson" width="100%"></a>
 
-<p align="center">
-  <b>CS @ Rice • Software Engineer • Building tech that helps people, moves ships, and makes life more fun ⚽</b>
-</p>
+I write movies, books, and philosophy, and build technology as a means to help people know themselves and live well. Most of that is **[The Olympus Project](https://www.mikeveson.com)**, a public benefit corporation I started in 2025.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mikedouzinas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mike%20Veson-blue?logo=linkedin"></a>
-  <a href="https://www.mikeveson.com"><img alt="Portfolio" src="https://img.shields.io/badge/Website-mikeveson.com-0A0A0A?logo=githubpages&logoColor=white"></a>
-</p>
+## Iris
 
----
+A thinking partner for human flourishing. One system, several surfaces. Not a chatbot and not a companion, but a mirror that helps a person see themselves clearly.
 
-### 🚀 About&nbsp;Me
-- 🌍 **Study abroad (Fall 2025):** Barcelona – distributed systems & product design  
-- 🛠 **I build:**  
-  - AI document pipelines that cut a 3-day client workflow to minutes  
-  - Full-stack apps that boost student engagement 30 %  
-  - Sports-tech tools that turn 90-min matches into 5-min highlight reels  
-- 🎯 **Interests:** health-tech • sports analytics • product strategy  
-- 📫 Reach me: `mike @ douzinas.com`
+**[iris-vault](https://github.com/mikedouzinas/iris-vault)** · The foundation, and the part you can run yourself. A Claude Code + Obsidian starter kit that turns a folder of notes into a thinking partner.
 
----
+**[Iris x freewrite](https://github.com/mikedouzinas/iris-freewrite)** · A fork of Farza's freewrite, extended with my knowledge layer. Turns a writing session into a thinking environment.
 
-### 🧰 Tech Toolbox
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Iris Mobile** · One press of the Action Button captures a thought, and Iris files it into the vault and answers back on its own time. Native iOS, private repo.
+
+**[Iris on mikeveson.com](https://www.mikeveson.com)** · Iris pointed outward, answering questions about me.
+
+> Most of what I build is in private repos for now, so if you want to know more of what I'm adding or fixing anywhere, **[Iris](https://www.mikeveson.com)** curates the stuff I can describe publicly. Ask about different projects or things I'm working on!
+
+## Other things I've built
+
+**[HiLiTe](https://github.com/mikedouzinas/HiLiTe)** · Watches a full 90 minute soccer match and returns the highlight reel, with AI-generated commentary.
+
+**[euros-predictor](https://github.com/mikedouzinas/euros-predictor)** · Predicted Euro 2024 from scraped match data. Top 3% in UEFA's prediction game.
+
+**[Momentum](https://github.com/mikedouzinas/momentum)** · A voice-first iOS productivity app. Real-time transcription, intent parsing, adaptive speech feedback.
+
+**[Knight Life](https://github.com/mikedouzinas/BBN-Knight-Life)** · Built it in high school and it became how everyone checked the schedule. 4.9 stars.
+
+## → [mikeveson.com](https://www.mikeveson.com)
+
+The real index. What I'm building, what I've written, what I've been listening to, and a [playground](https://www.mikeveson.com/playground) of things I made for fun.
 
 ---
 
-### 📌 Featured Projects
-| Project | What it does | Tech / Impact |
-|---------|--------------|---------------|
-| **HiLiTe** | AI pipeline that auto-detects key soccer events and generates broadcast-style commentary | PyTorch • BLIP-2 • GPT-4o • 92 % goal detection |
-| **Laytime AI** | Parses 100+ mixed-format maritime docs & outputs contract-grade calculations in ≤ 8 min | Python • Google Document AI • +$25 M ARR |
-| **Knight Life** | iOS app adopted by 1 000 students for daily schedules (4.9⭐) | Swift • Firebase • 50 % adoption week 1 |
-| **Euro 2024 Predictor** | ML model that ranked top 3 % for match outcome predictions | Pandas • Random Forest • 10 000+ matches |
+<sub>The handle is Douzinas, my mother's maiden name and my Greek grandfather Kostas's surname. Veson is the one on the diploma. Both are me.</sub>
 
-> 🔗 More in the **pinned repos** below.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikedouzinas&show_icons=true&theme=default&hide=stars&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikedouzinas&layout=compact&hide_progress=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikedouzinas&theme=default">
-</p>
-
----
+CS at Rice, graduating December 2026. Houston and Boston.
+[mikeveson.com](https://www.mikeveson.com) · [LinkedIn](https://www.linkedin.com/in/mikedouzinas) · `mike@douzinas.com`
