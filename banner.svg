@@ -45,8 +45,7 @@
     </circle>
   </g>
 
-  <text x="80" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#ededed" letter-spacing="1">Mike Veson</text>
-  <text x="84" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#9aa7c7" font-style="italic">technology in the service of human flourishing</text>
-  <line x1="84" y1="226" x2="180" y2="226" stroke="#283e80" stroke-width="2"/>
-  <text x="84" y="258" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#7c8bb0" letter-spacing="2">MIKEVESON.COM</text>
+  <text x="80" y="162" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#ededed" letter-spacing="1">Mike Veson</text>
+  <line x1="84" y1="196" x2="180" y2="196" stroke="#283e80" stroke-width="2"/>
+  <text x="84" y="230" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#7c8bb0" letter-spacing="2">MIKEVESON.COM</text>
 </svg>
